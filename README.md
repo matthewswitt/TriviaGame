@@ -6,3 +6,11 @@ The rules and leaderboard:
 <br>
 <img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/leaderboard_rules.gif" alt="" width="300" height="500">
 
+Brief two player mode demo:
+<br>
+<img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/1v1.gif" alt="" width="300" height="500">
+
+Timed mode demo:
+<br>
+<img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/timed.gif" alt="" width="300" height="500">
+
