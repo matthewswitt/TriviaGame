@@ -14,3 +14,6 @@ Timed mode demo:
 <br>
 <img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/timed.gif" alt="" width="300" height="500">
 
+Story/singleplayer mode demo:
+<br>
+<img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/story.gif" alt="" width="300" height="500">
