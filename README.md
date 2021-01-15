@@ -6,7 +6,7 @@ The rules and leaderboard:
 <br>
 <img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/leaderboard_rules.gif" alt="" width="300" height="500">
 
-Brief two player mode demo (the wheel doesn't look like that while spinning, just due having to upload the GIF at a low FPS):
+Brief two player mode demo (the wheel doesn't look like that while spinning, had to upload the GIF at a low FPS):
 <br>
 <img src="https://github.com/matthewswitt/TriviaGame/blob/main/DemoTrivia/1v1.gif" alt="" width="300" height="500">
 
